@@ -19,9 +19,9 @@ TrKa Low Pass Rate Length Zone Experiments
 * 70 length: https://app.lab.bio/experiments/173
 * 71 length: https://app.lab.bio/experiments/174
 * 72 lenght: https://app.lab.bio/experiments/175
-* 73 length: https://app.lab.bio/experiments/176
+* 73 length: https://app.lab.bio/experiments/176, https://app.lab.bio/experiments/202
 * 74 length: https://app.lab.bio/experiments/177
-* 75 length: https://app.lab.bio/experiments/178
+* 75 length: https://app.lab.bio/experiments/178, https://app.lab.bio/experiments/203
 * 76 length: https://app.lab.bio/experiments/179
 * 77 length: https://app.lab.bio/experiments/180
 * 78 length: https://app.lab.bio/experiments/181
