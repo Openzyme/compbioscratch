@@ -34,3 +34,11 @@ PD-L1 Low Pass Rate Length Zone Experiments
 * 70 length https://app.lab.bio/experiments/206
 * 71 length https://app.lab.bio/experiments/207
 * 72 length https://app.lab.bio/experiments/208
+
+TrKa 2xlarge
+* 60 https://app.prod.labdao.xyz/experiments/3018
+* 61 
+* 62 
+* 63 
+* 64
+* 65 
